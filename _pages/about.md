@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, LAMP Laboratory, UCAS
+subtitle: PhD Student, ARTE group of LAMP Laboratory, UCAS
 
 profile:
   align: right
@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I am a PhD student at the LAMP Laboratory, University of Chinese Academy of Sciences (UCAS).
+I am a PhD student at the ARTE group of LAMP Laboratory, University of Chinese Academy of Sciences (UCAS).
 
 My research focuses on **physics-based visual understanding**, including polarization imaging, light transport modeling, and multimodal perception. I am particularly interested in **spatial intelligence** and **world models** for high-fidelity scene understanding and reconstruction.
 
