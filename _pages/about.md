@@ -10,7 +10,7 @@ profile:
   image_circular: false
 
 news: true
-social: true
+social: false
 ---
 
 I am a PhD student at the ARTE group of LAMP Laboratory, University of Chinese Academy of Sciences (UCAS).
