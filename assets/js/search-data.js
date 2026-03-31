@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "My previous research interests have included liquid crystal devices, optical modulation, and embodied intelligence in robotics. Moving forward, my research will focus on modelling optical transmission, spatial intelligence, and world models.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
